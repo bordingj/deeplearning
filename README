@@ -1,0 +1,6 @@
+Deep learning on the GPU using Python (Multilayer Perceptron and Convolutional Neural Network)
+
+Dependencies:
+- Numpy
+- Theano
+- Scipy
